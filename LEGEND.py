@@ -1,6 +1,6 @@
 #!/usr/bin/python3 import telebot import subprocess import random import os import threading
 
-Telegram bot token
+# Insert your Telegram bot token here
 
 bot = telebot.TeleBot('8106529658:AAHw00Zdcg-KiNkKZSXhmmHjUQS4wY3nXb8')
 
