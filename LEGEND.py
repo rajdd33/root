@@ -4,8 +4,7 @@
 
 bot = telebot.TeleBot('8106529658:AAHw00Zdcg-KiNkKZSXhmmHjUQS4wY3nXb8')
 
-Group details
-
+# Group and channel details
 GROUP_ID = "-1002463590258" GROUP_INVITE_LINK = "https://t.me/botid3434"
 
 Attack settings
